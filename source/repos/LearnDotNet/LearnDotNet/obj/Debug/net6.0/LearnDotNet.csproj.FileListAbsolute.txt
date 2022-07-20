@@ -1,0 +1,15 @@
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\bin\Debug\net6.0\LearnDotNet.exe
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\bin\Debug\net6.0\LearnDotNet.deps.json
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\bin\Debug\net6.0\LearnDotNet.runtimeconfig.json
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\bin\Debug\net6.0\LearnDotNet.dll
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\bin\Debug\net6.0\LearnDotNet.pdb
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.csproj.AssemblyReference.cache
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.AssemblyInfoInputs.cache
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.AssemblyInfo.cs
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.dll
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\refint\LearnDotNet.dll
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.pdb
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\LearnDotNet.genruntimeconfig.cache
+C:\Users\SATYAM MANI TRIPATHI\source\repos\LearnDotNet\LearnDotNet\obj\Debug\net6.0\ref\LearnDotNet.dll
